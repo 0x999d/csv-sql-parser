@@ -26,3 +26,20 @@ CSV SQL Parser — это инструмент для анализа и обра
 ```bash
 pytest tests
 ```
+
+#### Скриншоты
+* Обычное использование
+  
+  ![Default usage](https://github.com/0x999d/csv-sql-parser/blob/master/files/default.png)
+
+* Оператор where
+
+  ![where usage](https://github.com/0x999d/csv-sql-parser/blob/master/files/where.png)
+
+* Оператор aggregate
+
+  ![aggregate usage](https://github.com/0x999d/csv-sql-parser/blob/master/files/aggregate.png)
+
+* Сортировка order by
+
+  ![aggregate usage](https://github.com/0x999d/csv-sql-parser/blob/master/files/orderby.png)
